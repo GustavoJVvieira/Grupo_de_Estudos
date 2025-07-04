@@ -49,11 +49,6 @@ node aula_1.js 8
 Node.js instalado na máquina (versão recomendada: LTS ou superior).
 O script aula_1.js deve estar no diretório de execução.
 
-### Notas
-
-Este é um exemplo simples de automação utilizado no dia a dia para agilizar o cadastro de alunos.
-O script pode ser adaptado para outros contextos que exijam geração de senhas ou códigos aleatórios.
-
 ## 📚 Aula 2
 
 Desafio: Crie um script em TypeScript que valide um número de CNPJ
@@ -92,3 +87,6 @@ Siga os passos abaixo para iniciar o projeto em seu ambiente local:
   node aula_2.js <CNPJ>
 
    ```
+### Pré-requisitos
+
+- Ter o TypeScript instalado
