@@ -19,7 +19,7 @@ Esse repositório tem como foco divulgar a resolução dos exercícios feitos no
 
 - JavaScript
 - TypeScript
-- Excel
+
 
 ###  📚 Aula 1 - Gerador de Senhas para Cadastro de Alunos
 
